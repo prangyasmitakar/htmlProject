@@ -1,0 +1,49 @@
+body{
+    background-image:url('./bg.jpg');
+    
+}
+section{
+    
+    background:white;
+    paddig:40px;
+    width:300px;
+    height: 400px;
+    margin: 100px 1000px 0px 500px ;
+    text-align: center;
+    
+
+}
+img{
+    border-radius: 100%;
+}
+
+ul li{
+    display:inline-block;
+    
+    
+}
+
+h1{
+    text-transform: uppercase;
+}
+p{
+    text-transform: uppercase;
+}
+
+.fa-twitter{
+    background:#00acee;
+}
+.fa-facebook{
+    background:#3b5998;
+}
+.fa-instagram{
+    background:radial-gradient(circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,
+    #285AEB 90%)
+}
+    .fa{
+    padding:20px;
+    
+    color:#fff;
+    border-radius:100%;
+    margin:10px;
+}
